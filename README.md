@@ -42,3 +42,14 @@ rotation for that printer.
 flutter run -d <android-device>
 flutter build apk --release
 ```
+
+## License
+FlipPrint is licensed under the
+[PolyForm Noncommercial License 1.0.0](LICENSE). You may use, copy, change
+and share it for personal, educational, research and other **noncommercial**
+purposes. **Commercial use is not allowed**, including selling it or using it
+in a paid product or service. For commercial use, contact the author for a
+separate license.
+
+Because it restricts commercial use, this is a *source-available* license,
+not an OSI-approved open-source one.
